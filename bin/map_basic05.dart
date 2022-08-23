@@ -7,7 +7,7 @@ Then return the map.
 */
 
 Map func() {
-  return;
+  return {'maxkambek': 'xolbekov'};
 }
 
 void main() {
