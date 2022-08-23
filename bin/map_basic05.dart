@@ -8,6 +8,7 @@ Then return the map.
 
 Map func() {
   return {'maxkambek': 'xolbekov'};
+  
 }
 
 void main() {

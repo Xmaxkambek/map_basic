@@ -10,6 +10,7 @@ Map func() {
   return data;
 }
 
+
 void main() {
   print(func());
 }
